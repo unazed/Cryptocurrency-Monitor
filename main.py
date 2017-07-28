@@ -74,4 +74,4 @@ def run_bot(high_low, perc):
 		yield val
 
 
-client.run("MzQwNTI1MjkzOTMwNDE0MDgw.DFzypQ.kCsGnU63iLbiQrzFofY7QN5POv8")
+client.run("token here)
